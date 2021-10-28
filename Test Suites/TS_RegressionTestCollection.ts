@@ -13,16 +13,16 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TS_RegressionTest</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TS_RegressionTest - Failed</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
-            <runConfigurationId>Firefox</runConfigurationId>
+            <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TS_RegressionTest</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TS_RegressionTest - Passed</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

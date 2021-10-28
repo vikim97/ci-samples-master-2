@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_RegressionTest</name>
+   <name>TS_RegressionTest - Passed</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2019-01-14T16:59:38</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>1286ccc6-2057-418d-87af-23d00cc6cd0e</testSuiteGuid>
    <testCaseLink>
       <guid>12b1ed24-3d2b-4bed-87e1-7c72470cdce7</guid>
@@ -28,11 +28,5 @@
          <value></value>
          <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
       </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e4bf2157-13c0-4c5f-875c-fa60a7e7a2fa</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC2_Verify Successful Appointment</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

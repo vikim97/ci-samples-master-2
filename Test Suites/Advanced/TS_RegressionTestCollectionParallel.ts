@@ -13,7 +13,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TS_RegressionTest</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TS_RegressionTest - Passed</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -22,7 +22,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TS_RegressionTest</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TS_RegressionTest - Passed</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
